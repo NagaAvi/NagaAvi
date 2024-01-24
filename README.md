@@ -1,17 +1,17 @@
-# Hi there, I'm <YOUR NAME> \uD83D\uDC4B
+# Hi there, I'm <YOUR NAME> :wave:
 
 I'm a student currently pursuing B.Tech CSE 3rd Year in Amity University Haryana. I'm passionate about augmented reality and game programming, and I love to learn new technologies and skills.
 
-## \uD83D\uDCBB My Skills and Tools
+## :computer: My Skills and Tools
 
-- Programming languages: C#, C++, Java, Python, HTML, CSS, JavaScript
-- Game engines: Unity, Unreal Engine, Godot
-- AR frameworks: ARCore, ARKit, Vuforia, AR Foundation
-- IDEs: Visual Studio, Visual Studio Code, Android Studio, Xcode
-- Version control: Git, GitHub, GitLab
-- Other tools: Blender, Photoshop, Illustrator, Audacity
+- Programming languages: C#, C++, Java, HTML, CSS, JavaScript
+- Game engines: Unity, Unreal Engine
+- AR frameworks: ARCore, Vuforia
+- IDEs: Visual Studio, Visual Studio Code
+- Version control: Git, GitHub
+- Other tools: Blender
 
-## \uD83D\uDCDA My Projects
+## :books: My Projects
 
 Here are some of the projects that I have worked on or contributed to:
 
@@ -20,13 +20,13 @@ Here are some of the projects that I have worked on or contributed to:
 - [Flappy Bird Clone](https://gist.github.com/tonycrosby-tech/c18c2b6c74900c6080fc097ca0718839): A 2D flappy bird clone game made with Godot and GDScript. It has simple graphics, animations, and sounds.
 - [Face Mask Detection](https://github.com/topics/readme-template): A Python script that uses OpenCV and TensorFlow to detect whether a person is wearing a face mask or not using a webcam or an image.
 
-## \uD83D\uDE80 My Achievements
+## 🚀 My Achievements
 
 - Won the first prize in the AR/VR Hackathon 2020 organized by Amity University Haryana.
 - Published a research paper on "Augmented Reality for Education: A Review and Future Directions" in the International Journal of Computer Science and Engineering.
 - Completed the "Game Development with Unity" course on Coursera with a 5-star rating.
 
-## \uD83D\uDC65 Let's Connect
+## 👥 Let's Connect
 
 You can find me on these platforms:
 
@@ -35,10 +35,8 @@ You can find me on these platforms:
 - [YouTube]
 - [Email]
 
-## \uD83C\uDF89 Fun Facts
+## 🪄 Fun Facts
 
 - I'm a huge fan of Star Wars and Marvel movies.
 - I play the guitar and the piano in my free time.
 - I like to travel and explore new places.
-
-![A GIF of a cute cat playing a piano]
