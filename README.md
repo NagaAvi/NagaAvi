@@ -13,18 +13,18 @@ I'm a student currently pursuing B.Tech CSE 3rd Year in Amity University Haryana
 
 ## :books: My Projects
 
-Here are some of the projects that I have worked on or contributed to:
+<!-- Here are some of the projects that I have worked on or contributed to:
 
 - [AR Sudoku Solver](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): An Android app that uses ARCore and OpenCV to solve Sudoku puzzles in real time using the device's camera.
 - [Space Shooter](https://dev.to/github/10-standout-github-profile-readmes-h2o): A 3D space shooter game made with Unity and C#. It features procedurally generated levels, enemies, power-ups, and sound effects.
 - [Flappy Bird Clone](https://gist.github.com/tonycrosby-tech/c18c2b6c74900c6080fc097ca0718839): A 2D flappy bird clone game made with Godot and GDScript. It has simple graphics, animations, and sounds.
-- [Face Mask Detection](https://github.com/topics/readme-template): A Python script that uses OpenCV and TensorFlow to detect whether a person is wearing a face mask or not using a webcam or an image.
+- [Face Mask Detection](https://github.com/topics/readme-template): A Python script that uses OpenCV and TensorFlow to detect whether a person is wearing a face mask or not using a webcam or an image. -->
 
 ## 🚀 My Achievements
 
-- Won the first prize in the AR/VR Hackathon 2020 organized by Amity University Haryana.
+<!-- - Won the first prize in the AR/VR Hackathon 2020 organized by Amity University Haryana.
 - Published a research paper on "Augmented Reality for Education: A Review and Future Directions" in the International Journal of Computer Science and Engineering.
-- Completed the "Game Development with Unity" course on Coursera with a 5-star rating.
+- Completed the "Game Development with Unity" course on Coursera with a 5-star rating. -->
 
 ## 👥 Let's Connect
 
