@@ -19,6 +19,7 @@ I'm a student currently pursuing B.Tech CSE 3rd Year in Amity University Haryana
 - [Space Shooter](https://dev.to/github/10-standout-github-profile-readmes-h2o): A 3D space shooter game made with Unity and C#. It features procedurally generated levels, enemies, power-ups, and sound effects.
 - [Flappy Bird Clone](https://gist.github.com/tonycrosby-tech/c18c2b6c74900c6080fc097ca0718839): A 2D flappy bird clone game made with Godot and GDScript. It has simple graphics, animations, and sounds.
 - [Face Mask Detection](https://github.com/topics/readme-template): A Python script that uses OpenCV and TensorFlow to detect whether a person is wearing a face mask or not using a webcam or an image. -->
+- [WebBased Fractal Simulator(Using WebGL)]
 
 ## 🚀 My Achievements
 
