@@ -1,6 +1,6 @@
 # Hi there, I'm <YOUR NAME> :wave:
 
-I'm a student currently pursuing B.Tech CSE 3rd Year in Amity University Haryana. I'm passionate about augmented reality and game programming, and I love to learn new technologies and skills.
+Motivated and versatile Computer Science student with strong skills in software development, project management, and problem-solving. Experienced in leading teams and managing complex projects while leveraging technical expertise in C++ and AR development. Eager to contribute to innovative solutions across industries and grow within a dynamic environment that values collaboration, learning, and impact.
 
 ## :computer: My Skills and Tools
 
