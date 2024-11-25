@@ -19,6 +19,8 @@ Motivated and versatile Computer Science student with strong skills in software 
 - [Space Shooter](https://dev.to/github/10-standout-github-profile-readmes-h2o): A 3D space shooter game made with Unity and C#. It features procedurally generated levels, enemies, power-ups, and sound effects.
 - [Flappy Bird Clone](https://gist.github.com/tonycrosby-tech/c18c2b6c74900c6080fc097ca0718839): A 2D flappy bird clone game made with Godot and GDScript. It has simple graphics, animations, and sounds.
 - [Face Mask Detection](https://github.com/topics/readme-template): A Python script that uses OpenCV and TensorFlow to detect whether a person is wearing a face mask or not using a webcam or an image. -->
+- [ARMASDS - Prototype (AR Mobility Assistant for Safe Driving System)](https://github.com/NagaAvi/ARMASDS-Prototype): ARMASDS (Augmented Reality Mobility Assistant for Safe Driving System) is a cutting-edge AR-based system designed to assist drivers in navigating hazardous conditions. This prototype leverages augmented reality to project real-time hazard warnings, navigation instructions, and other critical information directly onto the windshield, helping drivers avoid potential risks and improve situational awareness.
+- [VisorVision - Prototype 0.1](https://github.com/NagaAvi/VisterVision): The VisorVision project aims to create an Augmented Reality (AR) assistive system for individuals with prosopagnosia (face blindness) or short-term memory loss. This system will leverage facial recognition technology to provide real-time identification and relevant contextual information through a wearable AR device, ultimately enhancing daily interactions and fostering independence for users. 
 - [WebBased Fractal Simulator(Using WebGL)]
 
 ## 🚀 My Achievements
